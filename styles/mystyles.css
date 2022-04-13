@@ -1,0 +1,44 @@
+p {font-family:
+    'Courier New', Courier, monospace}
+h1 {font-family: Impact, Haettenschweiler,
+     'Arial Narrow Bold', sans-serif;}
+h1 {color: rgb(230, 219, 219);}
+
+.subheading {font-family: cursive;}
+h2 {font-size: 100px;}
+html {scroll-behavior: smooth;}
+
+body{
+    background-image: linear-gradient(slate gray, rgb(78, 78, 131), rgb(45, 45, 83))
+}
+.common 
+{ text-align: center;
+    }
+
+.header 
+{text-align: center;
+    background-color: grey;}
+
+.mainbody {
+    margin: auto;
+    width: 40%;
+}
+img { 
+    margin: auto;
+    width: 50px;
+}
+
+.heading { 
+    text-align: left;
+    color: rgb(186, 207, 110);
+font-size: 70px;
+}
+.img  {
+    margin: auto;
+    width: 130px;
+}
+.anchor 
+{text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+.tips {color: antiquewhite;}
